@@ -1,11 +1,13 @@
 .left-card{
     width: 35%;
     height: 80vh;
+    margin: 0 auto;
 }
 .up-left{
     background-image: url("mount.jpg");
     background-position: center;
     background-size: cover;
+    height: 50vh;
 }
 .nav{
     display: flex;
@@ -24,8 +26,9 @@ h3{
 .left-down{
     width: 50%;
 }
-.just-img, .right-down{
+.right-down{
     background-image: url("mount.jpg");
     background-position: center;
     background-size: cover;
+    width: 50%;
 }
