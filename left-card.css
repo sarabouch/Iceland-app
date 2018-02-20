@@ -1,0 +1,31 @@
+.left-card{
+    width: 35%;
+    height: 80vh;
+}
+.up-left{
+    background-image: url("mount.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+h5{
+    font-size: 20px;
+    font-weight: 600;
+}
+h3{
+    color: #ccc;
+}
+.down-left{
+    display: flex;
+}
+.left-down{
+    width: 50%;
+}
+.just-img, .right-down{
+    background-image: url("mount.jpg");
+    background-position: center;
+    background-size: cover;
+}
