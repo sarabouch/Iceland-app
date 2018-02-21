@@ -10,14 +10,14 @@
     padding: 15px;
 }
 .up-left{
-    background-image: url("mount.jpg");
+    background-image: url("mountain.jpg");
     background-position: top;
     background-size: 193%;
     background-repeat: no-repeat;
     height: 55vh;
 }
 .up-right{
-    background-image: url("mount.jpg");
+    background-image: url("mountain.jpg");
     background-position: bottom;
     background-size: cover;
     height: 40vh;
@@ -121,13 +121,13 @@ span{
     width: 50%;
 }
 .right-downn{
-    background-image: url("mount.jpg");
+    background-image: url("mountain.jpg");
     background-position: center;
     background-size: cover;
     width: 50%;
 }
 .just-img{
-    background-image: url("mount.jpg");
+    background-image: url("mountain.jpg");
     background-position: center;
     background-size: cover;
     height: 20vh;
